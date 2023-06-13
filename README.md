@@ -1,0 +1,1 @@
+Project of an API with all API Rest methods. The focus is on Patch method in order to follow [RFC-6902](https://www.rfc-editor.org/rfc/rfc6902)
